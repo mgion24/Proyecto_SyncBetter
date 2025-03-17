@@ -28,7 +28,7 @@ Este proyecto está **en constante evolución**. Se han documentado las configur
 
 ## Documentación
 
-- [Documento Principal](#)
+- [Documento Principal](https://github.com/mgion24/Proyecto_SyncBetter/blob/main/SyncBetter/Proyecto_SyncBetter.pdf)
 
 ### Contenido Destacado
 
