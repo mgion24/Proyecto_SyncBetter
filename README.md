@@ -1,11 +1,5 @@
 # Proyecto_SyncBetter
 
-# Contribuciones
-
-Cualquier sugerencia o mejora es bienvenida.
-
-# Proyecto_SyncBetter
-
 **Servidor autoalojado con múltiples servicios: Nextcloud, Forgejo, Bitwarden, y más**
 
 Este repositorio documenta el proyecto **SyncBetter**, un servidor autoalojado que integra varios servicios críticos para la gestión de archivos, repositorios de código y contraseñas. El proyecto se ha desarrollado y perfeccionado a lo largo de un año, añadiendo progresivamente diferentes configuraciones y mejoras. Este proyecto es uno de los más completos que realicé hasta ahora.
@@ -43,7 +37,7 @@ Este proyecto está **en constante evolución**. Se han documentado las configur
 - **Seguridad y Firewall**  
   Integración de iptables, UFW, scripts personalizados y automatizaciones.
 
-## Cómo Contribuir
+## Contribuciones
 
 Cualquier sugerencia o mejora es bienvenida.
 
